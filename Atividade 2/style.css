@@ -1,0 +1,32 @@
+header {
+  margin: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+img {
+  float: right;
+}
+
+.fix {
+  clear: both;
+}
+
+.fix img {
+  width: 25%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: .7rem;
+}

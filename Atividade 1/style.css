@@ -1,0 +1,65 @@
+p {
+  margin: 25px 50px 75px 100px;
+}
+
+div {
+  margin-bottom: 2rem;
+}
+
+.bg1 {
+  background: aquamarine;
+}
+
+.bg2 {
+  background: red;
+}
+
+.bg3 {
+  background: blue;
+}
+
+.bg4 {
+  background: yellow;
+}
+
+.bg5 {
+  background: yellowgreen;
+}
+
+.bg6 {
+  background: green;
+}
+
+.bg7 {
+  background: salmon;
+}
+
+.p1 {
+  border: 5px solid aquamarine;
+  border-radius: 5px;
+}
+
+.p2 {
+  border: 5px solid red;
+} 
+
+.p3 {
+  border: 2px dotted blue;
+}
+
+.p4 {
+  border: 5px dotted yellow;
+}
+
+.p5 {
+  border: 10px double yellowgreen;
+}
+
+.p6 {
+  border: 5px double green;
+}
+
+.p7 {
+  border: 2px solid salmon;
+  border-width: 2px 20px 5px 20px;
+}
